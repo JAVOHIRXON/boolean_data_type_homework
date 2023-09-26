@@ -8,3 +8,5 @@ def main(a):
     """
     # Write your code here
     return 
+a=7
+print(a==7)
